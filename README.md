@@ -24,7 +24,7 @@ My practical experience includes working with data processing, data pipelines, a
 
 ### Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/iamismaill/My-Portfolio).
+Welcome to my portfolio, where I showcase my [Projects](https://github.com/iamismaill/My-Portfolio).
 
 
 <h3 align="left">Languages and Tools:</h3>
